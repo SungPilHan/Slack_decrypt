@@ -1,0 +1,101 @@
+{
+    "184693378": {
+        "translation": "Dies ist ein {protocol} Link zu {hostname}. Falls du das erwartest, klicke ruhig darauf. Ansonsten gehe bitte sicher, dass es sich um einen Link handelt, dem du vertraust."
+    },
+    "228491096": {
+        "translation": "Fenster schließen"
+    },
+    "412256135": {
+        "translation": "Mitteilungen und Bestätigungen"
+    },
+    "470219197": {
+        "translation": "Kopiert!"
+    },
+    "599843802": {
+        "translation": "Dein Log wurde im Ordner <strong>Downloads<\/strong> gespeichert.",
+        "notes": "Please use <strong> and <\/strong> to denote bolded text (do not translate those directives)."
+    },
+    "676736683": {
+        "translation": "Wenn Slack keine Verbindung herstellen kann, <a id=1>lade deine Logs herunter<\/a> und sende sie an unser <a id=2>Support-Team<\/a>, das dir gern weiterhilft."
+    },
+    "1232096808": {
+        "translation": "Gib einen Benutzernamen und ein Passwort für den Server ein, um dich mit Slack zu verbinden. "
+    },
+    "2128864852": {
+        "translation": "Electron Eta"
+    },
+    "2149550608": {
+        "translation": "Beta"
+    },
+    "2149589909": {
+        "translation": "Kopieren"
+    },
+    "2150053277": {
+        "translation": "Speichern"
+    },
+    "2179150998": {
+        "translation": "GovSlack wurde deaktiviert, sodass du dich nicht mehr bei GovSlack-Workspaces anmelden kannst."
+    },
+    "2210840894": {
+        "translation": "Alpha"
+    },
+    "2226335023": {
+        "translation": "Zurücksetzen"
+    },
+    "2265579820": {
+        "translation": "Link zur App öffnen"
+    },
+    "2358485522": {
+        "translation": "Das kannst du auch noch versuchen:"
+    },
+    "2362253683": {
+        "translation": "Dein Log wird erstellt.",
+        "notes": "Net log in progress."
+    },
+    "2380539398": {
+        "translation": "Versuche, Slack neu zu starten. Dabei wird auch dein Cache geleert."
+    },
+    "2782703473": {
+        "translation": "GovSlack wurde aktiviert, sodass du dich nun bei GovSlack-Workspaces anmelden kannst."
+    },
+    "2805203296": {
+        "translation": "{protocol} Links zu {hostname} immer öffnen"
+    },
+    "2875270439": {
+        "translation": "Gib einen Benutzernamen und ein Passwort für den Proxy ein, um dich mit Slack zu verbinden. "
+    },
+    "2918950471": {
+        "translation": "Protokolle herunterladen"
+    },
+    "2944450756": {
+        "translation": "Windows Store"
+    },
+    "2962926561": {
+        "translation": "Du bist bei der Produktionsfreigabe dabei. Zurück zu deinem regulär geplanten Programm ..."
+    },
+    "3016177985": {
+        "translation": "Protokollierung beenden",
+        "notes": "Button text for stopping net log."
+    },
+    "3363816917": {
+        "translation": "Links von {protocolName} immer öffnen"
+    },
+    "3574460890": {
+        "translation": "{protocol} Link öffnen"
+    },
+    "3671115087": {
+        "translation": "Dieser Link öffnet eine App, keine Website. Falls du das erwartest, klicke ruhig darauf. Ansonsten gehe bitte sicher, dass es sich um einen Link handelt, dem du vertraust."
+    },
+    "3731817853": {
+        "translation": "Slack kann keine Verbindung herstellen"
+    },
+    "4160805346": {
+        "translation": "App Store"
+    },
+    "4210748714": {
+        "translation": "Überprüfe deine Netzwerkeinstellungen oder die <a id=1>Sicherheitssoftware<\/a>, die du verwendest, um sicherzustellen, dass der Zugriff auf Slack zulässig ist."
+    },
+    "4279321952": {
+        "translation": "Du wurdest zum {releaseChannel} hinzugefügt! 🎉 Deine App erhält jetzt {releaseChannel}-Updates, sobald diese verfügbar werden."
+    }
+}

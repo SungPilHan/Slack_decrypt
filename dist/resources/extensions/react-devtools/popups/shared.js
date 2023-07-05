@@ -1,0 +1,3 @@
+"use strict";document.addEventListener("DOMContentLoaded",function(){const e=document.getElementsByTagName("a");for(let t=0;t<e.length;t++)(function(){const n=e[t],o=n.href;n.onclick=function(){return chrome.tabs.create({active:!0,url:o}),!1}})();document.body.style.opacity=0,document.body.style.transition="opacity ease-out .4s",requestAnimationFrame(function(){document.body.style.opacity=1})});
+
+//# sourceMappingURL=shared.js.map
